@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+xgboost
+scikit-learn
+imbalanced-learn
+redis
+pandas
